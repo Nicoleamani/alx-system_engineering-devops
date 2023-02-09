@@ -1,2 +1,2 @@
-permit
+ten
 why?
