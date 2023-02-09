@@ -1,2 +1,2 @@
-creates script
-why?
+print script
+why
