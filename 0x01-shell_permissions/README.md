@@ -1,2 +1,2 @@
-print script
-why
+change script
+why?
