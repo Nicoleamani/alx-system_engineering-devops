@@ -1,2 +1,2 @@
-prints
-why?
+smiley
+ why
