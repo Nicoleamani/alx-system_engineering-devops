@@ -1,2 +1,2 @@
-creates new global variable
+prints results of addicinal 128
 why
