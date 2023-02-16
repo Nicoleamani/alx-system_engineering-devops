@@ -1,2 +1,2 @@
-no of dir
+list variables
 why
