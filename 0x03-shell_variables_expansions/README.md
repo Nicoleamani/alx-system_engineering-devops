@@ -1,2 +1,2 @@
-local variable
+creates new global variable
 why
