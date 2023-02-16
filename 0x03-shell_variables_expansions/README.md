@@ -1,2 +1,2 @@
-prints no with two decimal places followed by new line
+scripts of all variable and environment variables and function
 why
