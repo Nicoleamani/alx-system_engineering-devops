@@ -1,2 +1,1 @@
-list variables
-why
+ls variables and functions 
