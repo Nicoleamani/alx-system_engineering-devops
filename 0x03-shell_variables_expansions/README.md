@@ -1,2 +1,2 @@
-scripts of all variable and environment variables and function
+prints all possible combinations of two letters, except oo
 why
