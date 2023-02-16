@@ -1,2 +1,2 @@
-prints results of power divided divide
+display results of breath and love
 why
