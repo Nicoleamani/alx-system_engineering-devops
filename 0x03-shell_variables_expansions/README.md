@@ -1,1 +1,2 @@
-ls variables and functions 
+local variable
+why
