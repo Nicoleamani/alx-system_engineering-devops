@@ -1,2 +1,2 @@
-prints results of addicinal 128
+prints results of power divided divide
 why
