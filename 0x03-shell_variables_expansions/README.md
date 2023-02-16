@@ -1,2 +1,2 @@
-prints all possible combinations if two letters except oo
+prints no with two decimal places followed by new line
 why
